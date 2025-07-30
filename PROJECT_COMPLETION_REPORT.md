@@ -1,8 +1,8 @@
-# 🚀 Multilingual Risk Evaluation - 项目完成报告
+# 🚀 Multilingual Risk Evaluation - 项目报告
 
 ## 项目概览
 
-我已经成功为您在新的路径 (`~/multilingual-risk-eval-complete`) 下创建了一个完整的多语言风险评估项目。这是一个专业级的AI模型安全评估框架，用于测试大型语言模型在高风险场景下的表现。
+这是一个专业级的AI模型安全评估框架，用于测试大型语言模型在高风险场景下的表现。
 
 ## 📋 完成的功能模块
 
